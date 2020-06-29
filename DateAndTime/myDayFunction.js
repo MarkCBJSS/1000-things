@@ -1,5 +1,5 @@
 /* An old script I wrote back in 2012 - I'll 'improve' it later. */
-function mydayfunction() {
+function myDayFunction() {
 
     var d = new Date();
     var date = d.getDate();
@@ -56,19 +56,19 @@ function mydayfunction() {
     /* Change the numeric month value to the name */
     switch (month) {
     case 0:
-        month = "January ";
+        month = "January";
         break;
     
     case 1:
-        month = "February ";
+        month = "February";
         break;
     
     case 2:
-        month = "March ";
+        month = "March";
         break;
     
     case 3:
-        month = "April ";
+        month = "April";
         break;
     
     case 4:
@@ -76,37 +76,37 @@ function mydayfunction() {
         break;
     
     case 5:
-        month = "June ";
+        month = "June";
         break;
     
     case 6:
-        month = "July ";
+        month = "July";
         break;
     
     case 7:
-        month = "August ";
+        month = "August";
         break;
     
     case 8:
-        month = "September ";
+        month = "September";
         break;
     
     case 9:
-        month = "October "
+        month = "October";
         break;
     
     case 10:
-        month = "November "
+        month = "November";
         break;
     
     case 11:
-        month = "December "
+        month = "December";
         break;
     }
 
     /* Write everything out */
     document.write("<div class='datetxt'>");
-    document.write(day + ", " + date + " " + month + " " + year);
+    document.write(day + ", " + date + " " + month + ", " + year);
     document.write("</div>");
     
         }
