@@ -16,3 +16,8 @@ If there's anything that you think could be improved due to misunderstanding, th
 # Courses and Sources
 **[https://www.sololearn.com/Course/JavaScript/](https://www.sololearn.com/Course/JavaScript/)**
 Pretty good intro, some content has been reworked in a confusing manner, so feel free to cheat and read the comments for the answers.
+
+# The 1000 Things
+Date and Time > 
+1. myDayFunction.js
+2. myYearAndDate.js
