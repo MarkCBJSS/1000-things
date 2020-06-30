@@ -16,14 +16,15 @@ If there's anything that you think could be improved due to misunderstanding, th
 # The 1000 Things
 Structure of the repo Things are as *folder > main js file*, along with the supporting HTML and CSS files.
 
-(6) Name Changer > namechange.js <br>
-(5) Message Changer > messageChanger.js <br>
-(4) Time of Day > timeOfDay.js <br>
-(3) VAT Calculator > vat-script.js <br>
-(2) Date and Time > myYearAndDate.js <br>
+(7) Sound Player > soundPlayer.js<br>
+(6) Name Changer > namechange.js<br>
+(5) Message Changer > messageChanger.js<br>
+(4) Time of Day > timeOfDay.js<br>
+(3) VAT Calculator > vat-script.js<br>
+(2) Date and Time > myYearAndDate.js<br>
 (1) Date and Time > myDayFunction.js
 
-**994 to go...**
+**Only 993 to go... o_O**
 
 # Courses and Sources
 **[https://www.sololearn.com/Course/JavaScript/](https://www.sololearn.com/Course/JavaScript/)**
