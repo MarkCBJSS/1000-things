@@ -1,0 +1,15 @@
+body { padding:0; margin:10px; vertical-align:top; background:#ffffff; font-family:Tahoma;}
+
+.inventory {
+    width: 100px;
+    height: 100px;
+    color: black;
+    text-align: center;
+    border: 2px solid black;
+    display: inline-block;
+    margin: 10px;
+}
+
+.active {
+    border: 2px solid red;
+}
