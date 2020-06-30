@@ -18,6 +18,7 @@ If there's anything that you think could be improved due to misunderstanding, th
 1. Date and Time > myDayFunction.js
 2. Date and Time > myYearAndDate.js
 3. VAT Calculator > vat-script.js
+4. Time of Day > timeOfDay.js
 
 # Courses and Sources
 **[https://www.sololearn.com/Course/JavaScript/](https://www.sololearn.com/Course/JavaScript/)**
