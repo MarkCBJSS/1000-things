@@ -22,6 +22,8 @@ Structure of the repo Things are as *folder > main js file*, along with the supp
 (2) Date and Time > myYearAndDate.js <br>
 (1) Date and Time > myDayFunction.js
 
+** 995 to go...**
+
 # Courses and Sources
 **[https://www.sololearn.com/Course/JavaScript/](https://www.sololearn.com/Course/JavaScript/)**
 Pretty good intro, some content has been reworked in a confusing manner, so feel free to cheat and read the comments for the answers.
