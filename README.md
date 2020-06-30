@@ -16,7 +16,7 @@ If there's anything that you think could be improved due to misunderstanding, th
 # The 1000 Things
 Structure of the repo Things are as *folder > main js file*, along with the supporting HTML and CSS files.
 
-(7) Sound Player > soundPlayer.js<br>
+(7) Game Sounds > soundPlayer.js<br>
 (6) Name Changer > namechange.js<br>
 (5) Message Changer > messageChanger.js<br>
 (4) Time of Day > timeOfDay.js<br>
