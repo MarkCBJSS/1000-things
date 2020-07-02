@@ -29,3 +29,6 @@ Structure of the repo Things are as *folder > main js file*, along with the supp
 # Courses and Sources
 **[https://www.sololearn.com/Course/JavaScript/](https://www.sololearn.com/Course/JavaScript/)**
 Pretty good intro, some content has been reworked in a confusing manner, so feel free to cheat and read the comments for the answers.
+
+**[https://learn.codeartistry.io/](https://learn.codeartistry.io/)**
+Enrolled, not started yet...
