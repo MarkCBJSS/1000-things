@@ -16,6 +16,7 @@ If there's anything that you think could be improved due to misunderstanding, th
 # The 1000 Things
 Structure of the repo Things are as *folder > main js file*, along with the supporting HTML and CSS files.
 
+(9) Scope example > variable-scope-by-example.js<br>
 (8) Maths Hero > updated-maths-engine.js<br>
 (7) Game Sounds > soundPlayer.js<br>
 (6) Name Changer > namechange.js<br>
@@ -25,7 +26,7 @@ Structure of the repo Things are as *folder > main js file*, along with the supp
 (2) Date and Time > myYearAndDate.js<br>
 (1) Date and Time > myDayFunction.js
 
-**Only 992 to go... o_O**
+**Only 991 to go... o_O**
 
 # Courses and Sources
 **[https://www.sololearn.com/Course/JavaScript/](https://www.sololearn.com/Course/JavaScript/)**
